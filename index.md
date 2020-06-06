@@ -1,7 +1,9 @@
+![image](images/spacejam.jpg){: style="float: right"}
+
 ## Welcome to my site!
 
+Welcome to my personal web page. I'm still playing with this so keep in mind that this is a beta. Feel free to send me a message if you find a problem with the presentation or contents.
 
-Welcome to my personal web page. I'm still playing with this so keep in mind that this is a beta. Feel free to send me a message if you find a problem with the presentation or contents..
 
 ### Want to know who am I?
 
