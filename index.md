@@ -1,4 +1,4 @@
-![image](images/spacejam.jpg){: style="float: right"}
+![image](https://glpuga.github.io/images/spacejam.jpg){: style="float: right"}
 
 ## Welcome to my site!
 
