@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Welcome to my site!
 
-You can use the [editor on GitHub](https://github.com/glpuga/glpuga.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Welcome to my personal web page. I'm still playing with this so keep in mind that this is a beta. Feel free to send me a message if you find a problem with the presentation or contents..
 
-### Markdown
+### Want to know who am I?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Electronic Engineer, with a Specialization on Embedded Systems and a Master on GNSS Signal Tracking Algorithms.
 
-```markdown
-Syntax highlighted code block
+After graduating I stayed in university for about ten years, working as an embedded systems developer in a research laboratory. During this time I became specialized in embedded systems for space vehicles, real time software and communications systems, having worked mostly developing software for embedded GNSS receivers for rockets.
 
-# Header 1
-## Header 2
-### Header 3
+During this time I also spent some time an assistant professor for Power Electronics and Advanced Computer Architecture classes.
 
-- Bulleted
-- List
+Two years ago I left academy and joined Ekumen Labs, a very cool software development company that specializes on software for robotics and other some very cool projects.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### Find me on the net!
 
-[Link](url) and ![Image](src)
-```
+Yo can find me around the net in these places (and maybe some more):
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* For sure, here on Github at https://www.github.com/glpuga (more of a Gitlab guy, me)
+* On Gitlab, where I store some of my older projets, at https://www.gitlab.com/glpuga
+* Follow me on [twitter](https://www.twitter.com/glpuga)! (passive twitterati)
+* And Linkedin : https://www.linkedin.com/in/glpuga
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/glpuga/glpuga.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
